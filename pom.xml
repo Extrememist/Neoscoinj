@@ -21,9 +21,9 @@
   </parent>
 
   <scm>
-    <connection>scm:git:https://github.com/neoscoinj/neoscoinj</connection>
-    <developerConnection>scm:git:https://github.com/neoscoinj/neoscoinj</developerConnection>
-    <url>scm:git:https://github.com/neoscoinj/neoscoinj</url>
+    <connection>scm:git:https://github.com/extrememist/neoscoinj</connection>
+    <developerConnection>scm:git:https://github.com/extrememist/neoscoinj</developerConnection>
+    <url>scm:git:https://github.com/extrememist/neoscoinj</url>
   </scm>
 
   <name>neoscoinj Parent</name>
