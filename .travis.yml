@@ -1,4 +1,4 @@
-# configuration for https://travis-ci.org/neoscoinj/neoscoinj
+# configuration for https://travis-ci.org/extrememist/neoscoinj
 language: java
 jdk: oraclejdk8
 install: true # remove default
@@ -16,5 +16,5 @@ after_success:
 
 notifications:
   irc:
-    channels: "irc.freenode.net#neoscoinj"
+    channels: "irc.freenode.net#hypermist"
     skip_join: true
